@@ -1,1 +1,55 @@
 /*  your css code here. If applicable */
+
+h1, h2, h3, h4, h5, h6 {
+    color: #3b99e0;
+}
+
+.block-heading {
+    text-align: center;
+}
+
+.block-heading h2 {
+    color: #3b99e0;
+}
+
+.block-heading p {
+    color: gray;
+    max-width: 450px;
+    margin: auto;
+}
+
+.product {
+    background-color: white;
+    border-bottom: 1px solid #eee;
+}
+
+.product h6 {
+    color: #3b99e0;
+}
+
+.product input {
+    width: 70px;
+    text-align: center;
+}
+
+.summary {
+    background-color: #f7fbff;
+    border-top: 2px solid #5ea4f3;
+    height: 100%;
+}
+
+.summary h5 {
+    color: #333;
+}
+
+.summary span {
+    font-size: 14px;
+}
+
+.summary hr {
+    margin: 10px 0;
+}
+
+.summary button {
+    padding: 8px;
+}
